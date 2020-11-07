@@ -1,0 +1,11 @@
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.exe
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.deps.json
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.runtimeconfig.json
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.runtimeconfig.dev.json
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.dll
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\bin\Debug\netcoreapp3.1\ArrayVsMap.pdb
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\obj\Debug\netcoreapp3.1\ArrayVsMap.csprojAssemblyReference.cache
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\obj\Debug\netcoreapp3.1\ArrayVsMap.AssemblyInfoInputs.cache
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\obj\Debug\netcoreapp3.1\ArrayVsMap.AssemblyInfo.cs
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\obj\Debug\netcoreapp3.1\ArrayVsMap.dll
+C:\Users\Aidan\Github\CodingPorfolio\ArrayVsMap\ArrayVsMap\ArrayVsMap\obj\Debug\netcoreapp3.1\ArrayVsMap.pdb
