@@ -15,3 +15,4 @@ Shows my understanding of the differences between arrays and maps
 A handful of sorting agorithms that are helpful in different situations
 
 ## Searching
+A demonstration of how to use searching algorithms.
