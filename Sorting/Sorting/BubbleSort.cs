@@ -33,6 +33,7 @@ namespace Sorting
                 }
             }
 
+            //prints out the sorted array
             foreach (int n in nums)
             {
                 Console.Write(n + " ");

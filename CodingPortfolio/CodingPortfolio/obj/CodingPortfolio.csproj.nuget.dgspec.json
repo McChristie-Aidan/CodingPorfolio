@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aidan\\Github\\CodingPorfolio\\StackVsQueue\\StackVsQueue\\StackVsQueue.csproj": {}
+    "C:\\Users\\Aidan\\Github\\CodingPorfolio\\CodingPortfolio\\CodingPortfolio\\CodingPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aidan\\Github\\CodingPorfolio\\StackVsQueue\\StackVsQueue\\StackVsQueue.csproj": {
+    "C:\\Users\\Aidan\\Github\\CodingPorfolio\\CodingPortfolio\\CodingPortfolio\\CodingPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\StackVsQueue\\StackVsQueue\\StackVsQueue.csproj",
-        "projectName": "StackVsQueue",
-        "projectPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\StackVsQueue\\StackVsQueue\\StackVsQueue.csproj",
+        "projectUniqueName": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\CodingPortfolio\\CodingPortfolio\\CodingPortfolio.csproj",
+        "projectName": "CodingPortfolio",
+        "projectPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\CodingPortfolio\\CodingPortfolio\\CodingPortfolio.csproj",
         "packagesPath": "C:\\Users\\Aidan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\StackVsQueue\\StackVsQueue\\obj\\",
+        "outputPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\CodingPortfolio\\CodingPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

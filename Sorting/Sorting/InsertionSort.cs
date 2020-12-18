@@ -25,6 +25,7 @@ namespace Sorting
                 nums[j + 1] = heldNum;
             }
 
+            //prints the sorted list
             foreach (int n in nums)
             {
                 Console.Write(n + " ");

@@ -9,6 +9,7 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
+            //reads the contents of our files
             string[] txtFile = File.ReadAllLines(@"scores.txt");
             int[] parseFile = new int[txtFile.Length];
 
