@@ -1,8 +1,10 @@
 #Bubble Sort
 ##BubbleSort Description:
 BubbleSort looks at the first pair and swaps them if the first item is bigger than the second. it then moves the focus 1 item to the right and continues the sort.
+
 ##BubbleSort best case worst case:
-O(n^2)
+O(n^2) and O(n^2)
+
 ##BubbleSort Pseudocode:
 Bubblesort(Data: values[])
     // Repeat until the array is sorted.
