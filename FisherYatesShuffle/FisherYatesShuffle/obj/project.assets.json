@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle.csproj",
+      "projectUniqueName": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle.csproj",
       "projectName": "FisherYatesShuffle",
-      "projectPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle.csproj",
+      "projectPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle.csproj",
       "packagesPath": "C:\\Users\\Aidan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\FisherYatesShuffle\\obj\\",
+      "outputPath": "C:\\Users\\Aidan\\Github\\CodingPorfolio\\FisherYatesShuffle\\FisherYatesShuffle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
