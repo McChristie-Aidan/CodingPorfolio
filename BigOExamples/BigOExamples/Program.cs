@@ -32,7 +32,7 @@ namespace BigOExamples
             }
         }
 
-        // O(2^n)
+        // O(n^2)
         //this method is quadratic because it will walk through the entire list a number of times equal to the number of items in the list
         //therefore more its mean exponentially more time spent 
         private void NumCompare(List<int> nums)
