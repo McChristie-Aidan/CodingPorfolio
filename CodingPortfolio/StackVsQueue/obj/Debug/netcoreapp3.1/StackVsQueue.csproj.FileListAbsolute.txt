@@ -1,0 +1,10 @@
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.exe
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.deps.json
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.runtimeconfig.json
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.runtimeconfig.dev.json
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.dll
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\bin\Debug\netcoreapp3.1\StackVsQueue.pdb
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\obj\Debug\netcoreapp3.1\StackVsQueue.AssemblyInfoInputs.cache
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\obj\Debug\netcoreapp3.1\StackVsQueue.AssemblyInfo.cs
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\obj\Debug\netcoreapp3.1\StackVsQueue.dll
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\StackVsQueue\obj\Debug\netcoreapp3.1\StackVsQueue.pdb
