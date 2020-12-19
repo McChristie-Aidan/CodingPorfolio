@@ -25,6 +25,10 @@ namespace Sorting
             InsertionSort insertion = new InsertionSort();
             insertion.doInsertionSort(parseFile);
             Console.Clear();
+
+            SelectionSort selection = new SelectionSort();
+            selection.doSelectionSort(parseFile);
+            Console.Clear();
         }
     }
 }

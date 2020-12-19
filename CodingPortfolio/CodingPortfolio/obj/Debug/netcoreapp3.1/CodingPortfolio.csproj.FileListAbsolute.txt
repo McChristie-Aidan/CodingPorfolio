@@ -1,0 +1,3 @@
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\CodingPortfolio\obj\Debug\netcoreapp3.1\CodingPortfolio.csprojAssemblyReference.cache
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\CodingPortfolio\obj\Debug\netcoreapp3.1\CodingPortfolio.AssemblyInfoInputs.cache
+C:\Users\Aidan\Github\CodingPorfolio\CodingPortfolio\CodingPortfolio\obj\Debug\netcoreapp3.1\CodingPortfolio.AssemblyInfo.cs
